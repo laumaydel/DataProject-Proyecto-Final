@@ -53,3 +53,16 @@ Para optimizar la interpretación de los datos y garantizar filtrados cruzados d
 * **Power BI Desktop:** Power Query, Lenguaje DAX, Modelado de Datos.
 * **Git/GitHub:** Control de versiones.
 ---
+##  Estructura del Repositorio
+
+```text
+
+├── rawdata/                         # Carpeta con archivos de origen / conexion local
+├── 1-limpiezadatos.ipynb            # Notebook de ingesta y preprocesamiento
+├── 2-AnalisisEDA.ipynb              # Notebook del Análisis Exploratorio de Datos (EDA)
+├── DATA PROJECT_ PROYECTO FINAL.pdf # Memoria / Informe académico en PDF
+├── Dashboard-ProyectoFinal.pbix     # Archivo interactivo de Power BI Desktop
+├── f1_data.csv                      # Dataset procesado y unificado
+├── data_combinada.csv.zip           # Dataset comprimido de respaldo
+├── .gitattributes                   # Configuración de Git
+└── README.md                        
