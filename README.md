@@ -64,5 +64,4 @@ Para optimizar la interpretación de los datos y garantizar filtrados cruzados d
 ├── Dashboard-ProyectoFinal.pbix     # Archivo interactivo de Power BI Desktop
 ├── f1_data.csv                      # Dataset procesado y unificado
 ├── data_combinada.csv.zip           # Dataset comprimido de respaldo
-├── .gitattributes                   # Configuración de Git
 └── README.md                        
